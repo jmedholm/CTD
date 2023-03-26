@@ -1,0 +1,8 @@
+
+data/
+
+.DS_Store
+
+04_Testing_new_processing.ipynb
+
+.ipynb_checkpoints/
